@@ -63,7 +63,7 @@ Descriptive statistics: Calculating summary statistics (mean, median, standard d
 
 Data visualization: Creating visualizations (histograms, scatter plots, bar charts) to explore relationships between variables and identify trends.
 
-Conclusion
+## Conclusion
 -It is clear from the above visualization that the foreign gross revenue exceded the domestic gross revenue making it a favourable market for Microsoft.
 
 -The domestic revenue also shows a lot of promise considering the margins between the two though more marketing strategies need to be put in place to grow this revenue stream. 
